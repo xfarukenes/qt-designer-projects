@@ -1,0 +1,23 @@
+[
+  {
+    "AD": "ENES",
+    "SOYAD": "FARUK",
+    "CİNSİYET": "ERKEK",
+    "ADRES": "MANISA",
+    "YAŞ": "27"
+  },
+  {
+    "AD": "DENEME1",
+    "SOYAD": "DENEME1",
+    "CİNSİYET": "ERKEK",
+    "ADRES": "DENEME1",
+    "YAŞ": "38"
+  },
+  {
+    "AD": "DENEME2",
+    "SOYAD": "DENEME2",
+    "CİNSİYET": "KADIN",
+    "ADRES": "DENEME2",
+    "YAŞ": "19"
+  }
+]
